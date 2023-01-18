@@ -1,0 +1,24 @@
+{
+    "name": "interactive-rating-component",
+    "version": "1.0.0",
+    "description": "frontendmentor interactive component challenge solution",
+    "main": "index.js",
+    "scripts": {
+        "build": "npx tailwindcss -i input.css -o ./css/main.css",
+        "watch": "npx tailwindcss -i input.css -o ./css/main.css --watch"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ibrahimherith/interactive-rating-component.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ibrahimherith/interactive-rating-component/issues"
+    },
+    "homepage": "https://github.com/ibrahimherith/interactive-rating-component#readme",
+    "devDependencies": {
+        "tailwindcss": "^3.2.4"
+    }
+}
